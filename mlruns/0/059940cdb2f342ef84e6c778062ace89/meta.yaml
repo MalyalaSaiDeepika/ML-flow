@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/059940cdb2f342ef84e6c778062ace89/artifacts
+end_time: 1753259377305
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 059940cdb2f342ef84e6c778062ace89
+run_name: redolent-lark-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753259368878
+status: 3
+tags: []
+user_id: deepu

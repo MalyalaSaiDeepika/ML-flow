@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ad4262247b234a03916d6ead684fbd50/artifacts
+end_time: 1753254885251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad4262247b234a03916d6ead684fbd50
+run_name: fearless-rook-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753254871543
+status: 4
+tags: []
+user_id: deepu

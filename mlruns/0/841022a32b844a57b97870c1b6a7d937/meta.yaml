@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/841022a32b844a57b97870c1b6a7d937/artifacts
+end_time: 1753259363430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 841022a32b844a57b97870c1b6a7d937
+run_name: abrasive-croc-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753259352779
+status: 3
+tags: []
+user_id: deepu

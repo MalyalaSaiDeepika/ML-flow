@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ebbbfb41756346e1b94b66d2450503bd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebbbfb41756346e1b94b66d2450503bd
+run_name: enthused-yak-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753254899940
+status: 1
+tags: []
+user_id: deepu

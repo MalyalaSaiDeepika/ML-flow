@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d36037490ea544789480cf5fe853ccdb/artifacts
+end_time: 1753259833538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d36037490ea544789480cf5fe853ccdb
+run_name: glamorous-seal-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753259825448
+status: 3
+tags: []
+user_id: deepu

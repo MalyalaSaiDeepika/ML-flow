@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c4a622eeb584e19afbc66bbc71e8a54/artifacts
+end_time: 1753259561851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c4a622eeb584e19afbc66bbc71e8a54
+run_name: angry-deer-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753259553948
+status: 3
+tags: []
+user_id: deepu

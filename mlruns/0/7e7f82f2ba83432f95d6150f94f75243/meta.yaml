@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7e7f82f2ba83432f95d6150f94f75243/artifacts
+end_time: 1753248053776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e7f82f2ba83432f95d6150f94f75243
+run_name: rogue-hawk-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248037963
+status: 3
+tags: []
+user_id: deepu

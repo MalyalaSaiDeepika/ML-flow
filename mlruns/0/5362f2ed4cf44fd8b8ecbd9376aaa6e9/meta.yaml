@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5362f2ed4cf44fd8b8ecbd9376aaa6e9/artifacts
+end_time: 1753254857668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5362f2ed4cf44fd8b8ecbd9376aaa6e9
+run_name: gaudy-sloth-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753254851621
+status: 4
+tags: []
+user_id: deepu

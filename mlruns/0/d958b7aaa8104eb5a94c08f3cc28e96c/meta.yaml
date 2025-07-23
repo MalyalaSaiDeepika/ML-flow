@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d958b7aaa8104eb5a94c08f3cc28e96c/artifacts
+end_time: 1753248703134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d958b7aaa8104eb5a94c08f3cc28e96c
+run_name: auspicious-gnu-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753248694863
+status: 3
+tags: []
+user_id: deepu
